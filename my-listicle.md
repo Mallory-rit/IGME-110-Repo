@@ -1,5 +1,6 @@
 # Very Useful Links
 ## ***so useful***
+###### *Bold and italic :O*
 - [List of Public APIs](https://github.com/public-api-lists/public-api-lists)
 - [List of Games](https://github.com/leereilly/games)
 - [Google if you get lost](https://google.com)

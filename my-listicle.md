@@ -3,4 +3,4 @@
 - [List of Games](https://github.com/leereilly/games)
 - [Google if you get lost](https://google.com)
 - [Cool Math Games](https://www.coolmathgames.com/)
-- [The link to this page!](https://github.com/Mallory-rit/IGME-110-Repo/edit/main/my-listicle.md)
+- [The link to this page!](https://github.com/Mallory-rit/IGME-110-Repo/blob/main/my-listicle.md)

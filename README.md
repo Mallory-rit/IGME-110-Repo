@@ -15,3 +15,6 @@
 
 ## Useful Links
 - [RIT Website](https://www.rit.edu)
+
+## Random Image
+![I've been there!](https://images.pexels.com/photos/1796715/pexels-photo-1796715.jpeg?cs=srgb&dl=pexels-chaitaastic-1796715.jpg&fm=jpg)

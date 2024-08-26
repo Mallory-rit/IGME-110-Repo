@@ -1,4 +1,4 @@
-# Mallory's IGME-110-Repo
+# Kristian's IGME-110-Repo
 ---
 ## This is my read-me
 ###### *so cool*

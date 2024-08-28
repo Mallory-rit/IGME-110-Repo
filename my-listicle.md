@@ -7,3 +7,5 @@
 - [Cool Math Games](https://www.coolmathgames.com/)
 - [Paragon of knowledge](https://www.wikipedia.org/)
 - [The link to this page!](https://github.com/Mallory-rit/IGME-110-Repo/blob/main/my-listicle.md)
+
+![AMERICA!!1!](images/images/eagle.jpg)
